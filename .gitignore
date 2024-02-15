@@ -1,0 +1,23 @@
+video-testing
+x64
+image-testing
+video_result.avi
+MobileNet-Caffe
+# Ignore build output
+*.obj
+*.exe
+*.dll
+*.pdb
+
+# Ignore Visual Studio files
+*.suo
+*.ncb
+*.aps
+*.user
+*.vcxproj.*
+*.sdf
+MobileNet-Caffe
+video-testing
+image-testing
+.vscode
+x64\Debug
